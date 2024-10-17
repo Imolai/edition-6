@@ -2,7 +2,7 @@
 
 This code repository contains all code snippets and exercise solutions for the book [**Professional C++, 6th Edition**](https://www.wiley.com/go/proc++6e) by Marc Gregoire (Wiley, 2024).
 
-There are my personal modifications in this repo instance. :)
+There are my personal modifications in this repo instance, see: [My Notes](./MyNotes.md)
 
 <p align="center">
 <img width="200" src="Cover - Professional C++ 6th Edition.jpg" alt="Cover - Professional C++, 6th Edition">
